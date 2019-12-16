@@ -1,0 +1,23 @@
+{
+  "name": "sample_nodejs_curd_application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manideep323/sample_nodejs_curd_application.git"
+  },
+  "author": "manideep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manideep323/sample_nodejs_curd_application/issues"
+  },
+  "homepage": "https://github.com/manideep323/sample_nodejs_curd_application#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
